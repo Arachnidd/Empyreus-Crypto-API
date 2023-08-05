@@ -58,4 +58,6 @@ privateKey = The currency address authentication (sort of like a key to get into
 user = the username assigned to you by the owner
 password = the password assigned to you by the owner
 
+Currency = the currency you are dealing with, currently the only ones are: Bitcoin and Litecoin (both of them full names and a capital letter at the biginning).
+
 **REMINDER:** Each request **MUST** contain the username and password in the body params.
