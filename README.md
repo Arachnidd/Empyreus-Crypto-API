@@ -37,7 +37,7 @@ Response Body:
 /send${Currency}
 Request body:
 {
-    "privateKey": "key",
+    "pkey": "key",
     "to": "address",
     "amount": 0.001
 }
@@ -53,7 +53,7 @@ Response body:
 
 **Note:** For sending fee is automatically calculated so you do not have to input the fee each time.
 
-privateKey = The currency address authentication (sort of like a key to get into the address). This should not be shared with ANYONE.
+pkey = The currency address authentication (sort of like a key to get into the address). This should not be shared with ANYONE.
 
 user = the username assigned to you by the owner
 password = the password assigned to you by the owner
