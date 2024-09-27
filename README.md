@@ -1,3 +1,5 @@
+Actual Source code is private, if you wish to view it or want to discuss about it, please message me. This is hosted and acts like an api
+
 # Empyreus-Crypto-API
 This is the documentation for Empyreus Crypto API
 
